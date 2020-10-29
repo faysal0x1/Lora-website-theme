@@ -1,0 +1,130 @@
+body {
+  font-family: "Lato", sans-serif; }
+
+li, a {
+  text-decoration: none; }
+
+header {
+  background: url(../img/header-bg.jpg);
+  height: 85vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; }
+
+header.black {
+  background: rgba(0, 0, 0, 0.8); }
+
+.navbar-nav li a {
+  border-radius: 10px;
+  padding: 4px 15px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 15px; }
+
+.navbar-nav li a:visited,
+.navbar-nav li a:hover {
+  background: #ffc61a;
+  border-radius: 10px;
+  padding: 4px 15px; }
+
+.car {
+  width: 27rem;
+  margin-left: 31%; }
+
+.intro h1 {
+  color: #ffc61a;
+  font-weight: 700;
+  font-size: 32px; }
+
+.intro p {
+  font-size: 35px;
+  font-weight: 500; }
+
+p.site {
+  letter-spacing: 0.9rem;
+  font-size: 25px; }
+
+.about-booking h1 {
+  font-size: 30px;
+  font-weight: 700; }
+
+.about-booking h3 {
+  font-size: 35px;
+  font-weight: 700; }
+
+.about-booking p {
+  font-size: 15px; }
+
+.triffs h1 {
+  color: #ffc61a;
+  font-weight: 700;
+  font-size: 25px; }
+
+.triffs h3 {
+  font-weight: 700;
+  font-size: 25px; }
+
+.card:hover {
+  background: #ffc61a; }
+  .card:hover .btn {
+    background: black;
+    color: white; }
+
+.why-choose-us {
+  background: url(../img/bg-2.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat; }
+
+.why-choose-us h1,
+h3 {
+  color: #ffc61a; }
+
+.why-choose-us h2,
+p {
+  color: #fff; }
+
+.why-choose-us a {
+  border-radius: 5px; }
+
+.media {
+  margin-top: 2rem; }
+
+.media img {
+  text-align: center;
+  padding: 8px 17px;
+  width: 5.8rem; }
+
+.testimonial {
+  background: url(../img/bg-3.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat; }
+
+.testimonial .card {
+  border-radius: 20px;
+  padding: 10px; }
+
+.call-to-action h1 {
+  letter-spacing: 0px;
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 13px; }
+
+.call-to-action h2 {
+  letter-spacing: 17px;
+  font-weight: bold;
+  font-size: 45px; }
+
+li {
+  list-style-type: none; }
+
+a:link {
+  text-decoration: none; }
+
+a:visited {
+  text-decoration: none; }
